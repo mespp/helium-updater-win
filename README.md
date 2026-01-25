@@ -1,4 +1,4 @@
-# ![Helium Icon](.github/images/helium-icon.png) Helium Updater for Windows
+# Helium Updater for Windows
 
 ## Requirements
 - [winget-cli](https://github.com/microsoft/winget-cli)
