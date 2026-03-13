@@ -6,7 +6,7 @@
 - [Helium](https://github.com/imputnet/helium) (installed via winget) 
     - ```winget install ImputNet.Helium```
 
-## How to use?
+## How to use
 Just run "set-helium-updater.ps1" to enable it and "delete-helium-updater.ps1" if you want to disable/delete it.
 
 ## What does this do?
